@@ -22,7 +22,7 @@ body {
   
   #puzzle-grid {
     display: grid;
-    grid-template-columns: repeat(5, 60px);
+    grid-template-columns: repeat(5, 80px);
     gap: 10px;
     margin: 20px;
   }
@@ -50,6 +50,7 @@ body {
   #question-box {
     margin-top: 20px;
     padding: 20px;
+    margin-right: 20px;
     background: #f8f9fa;
     border-radius: 10px;
     text-align: center;

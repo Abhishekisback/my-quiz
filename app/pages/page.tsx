@@ -218,7 +218,7 @@ const QuizPage = () => {
         }
         #puzzle-grid {
           display: grid;
-          grid-template-columns: repeat(4, 50px);
+          grid-template-columns: repeat(5, 60px);
           gap: 10px;
           margin-bottom: 20px;
         }
