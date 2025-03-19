@@ -32,6 +32,66 @@ const questionsData: QuestionsType = {
     options: ["XPS", "ThinkPad", "MacBook"],
     answer: "XPS",
   },
+  D: {
+    question: "What color is Dell’s logo?",
+    options: ["Blue", "Red", "Green"],
+    answer: "Blue",
+  },
+  E: {
+    question: "Which OS is pre-installed on most Dell PCs?",
+    options: ["Windows", "Linux", "MacOS"],
+    answer: "Windows",
+  },
+  F: {
+    question: "Dell’s Alienware brand is known for?",
+    options: ["Gaming", "Office Work", "Medical Use"],
+    answer: "Gaming",
+  },
+  G: {
+    question: "Where is Dell's headquarters?",
+    options: ["Austin, Texas", "San Francisco", "New York"],
+    answer: "Austin, Texas",
+  },
+  H: {
+    question: "Which Dell laptop is designed for business use?",
+    options: ["Inspiron", "Latitude", "Alienware"],
+    answer: "Latitude",
+  },
+  I: {
+    question: "Which Dell monitor series is for professionals?",
+    options: ["UltraSharp", "OptiView", "VisionPro"],
+    answer: "UltraSharp",
+  },
+  J: {
+    question: "Which company did Dell merge with in 2016?",
+    options: ["HP", "EMC", "Lenovo"],
+    answer: "EMC",
+  },
+  K: {
+    question: "Which component is Dell known for selling?",
+    options: ["GPUs", "Servers", "Smartphones"],
+    answer: "Servers",
+  },
+  L: {
+    question: "Which is a Dell software solution?",
+    options: ["VMware", "CloudSuite", "ThinkOS"],
+    answer: "VMware",
+  },
+  M: {
+    question: "What is Dell’s budget-friendly laptop series?",
+    options: ["Latitude", "Inspiron", "XPS"],
+    answer: "Inspiron",
+  },
+  N: {
+    question: "What’s Dell’s initiative for sustainability?",
+    options: ["EcoWorks", "Recycling Program", "Go Green"],
+    answer: "Recycling Program",
+  },
+  O: {
+    question: "What is Dell’s primary business focus?",
+    options: ["Automobiles", "Technology", "Retail"],
+    answer: "Technology",
+  },
 };
 
 const QuizPage = () => {
